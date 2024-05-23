@@ -1,2 +1,1 @@
-# portfolio-website-two
-Portfolio Website using React and Tailwind CSS
+# Portfolio Website using React and Tailwind CSS
